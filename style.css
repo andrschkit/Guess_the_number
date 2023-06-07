@@ -78,3 +78,50 @@ h1{
   top: 2rem;
   left: 3rem;
 }
+
+.number_input
+{
+  background: none;
+  border: 4px solid white;
+  font-family: inherit;
+  color: inherit;
+  font-size: 5rem;
+  padding: 2rem;
+  width: 20rem;
+  text-align: center;
+  display: block;
+  margin-bottom: 3rem;
+  margin-top: 6rem;
+}
+
+.btn
+{
+  border: none;
+  background-color: white;
+  color: black;
+  font-size: 2rem;
+  font-family: inherit;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.btn:hover
+{
+  background-color: wheat;
+}
+
+.guess_message
+{
+  margin-bottom: 2rem;
+  height: 3rem;
+}
+
+.lable_score
+{
+  margin-bottom: 2rem;
+}
+
+.lable_highscore
+{
+margin-bottom: 2rem;
+}
